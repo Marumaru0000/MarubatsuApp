@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		992376C92AA9CBF6001146C2 /* CreateQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992376C82AA9CBF6001146C2 /* CreateQuestionViewController.swift */; };
 		99D1C1272AA2AEDF007D1820 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D1C1262AA2AEDF007D1820 /* AppDelegate.swift */; };
 		99D1C1292AA2AEDF007D1820 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D1C1282AA2AEDF007D1820 /* SceneDelegate.swift */; };
 		99D1C12B2AA2AEDF007D1820 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D1C12A2AA2AEDF007D1820 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		992376C82AA9CBF6001146C2 /* CreateQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateQuestionViewController.swift; sourceTree = "<group>"; };
 		99D1C1232AA2AEDF007D1820 /* MarubatsuApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarubatsuApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99D1C1262AA2AEDF007D1820 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99D1C1282AA2AEDF007D1820 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				99D1C1262AA2AEDF007D1820 /* AppDelegate.swift */,
+				992376C82AA9CBF6001146C2 /* CreateQuestionViewController.swift */,
 				99D1C1282AA2AEDF007D1820 /* SceneDelegate.swift */,
 				99D1C12A2AA2AEDF007D1820 /* ViewController.swift */,
 				99D1C12C2AA2AEDF007D1820 /* Main.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992376C92AA9CBF6001146C2 /* CreateQuestionViewController.swift in Sources */,
 				99D1C12B2AA2AEDF007D1820 /* ViewController.swift in Sources */,
 				99D1C1272AA2AEDF007D1820 /* AppDelegate.swift in Sources */,
 				99D1C1292AA2AEDF007D1820 /* SceneDelegate.swift in Sources */,
