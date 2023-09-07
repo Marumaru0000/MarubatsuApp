@@ -5,12 +5,6 @@
 //  Created by 丸山航輝 on 2023/09/07.
 //
 
-//
-//  CreateQuestionViewController.swift
-//
-//
-//  Created by Yumi Ito on 2023/09/02.
-//
 
 import UIKit
 
